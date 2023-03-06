@@ -17,6 +17,8 @@ specialization: the specialization the student is pursuing.
 special_classes: any special classes the student is taking.
 grade: the student's grade.
 
+#SampleData
+
 student_id,name,age,gender,city,country,degree,specialization,special_classes,grade
 1,John Doe,22,Male,New York,USA,Bachelor's,Digital Marketing,Python Programming,A-
 2,Jane Smith,20,Female,Sydney,Australia,Bachelor's,Computer Science,Machine Learning,A
